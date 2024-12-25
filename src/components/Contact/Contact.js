@@ -37,7 +37,7 @@ const Contact = () => {
           </div>
           <div className="mt-4">
             <a
-              href="https://github.com/tarungoyal0025"
+              href="https://github.com/Diksha1Singla"
               target="_blank"
               rel="noreferrer"
             >
@@ -46,7 +46,7 @@ const Contact = () => {
             </a>
             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
             <a
-              href="https://www.linkedin.com/in/tarungoyal0025/"
+              href="https://www.linkedin.com/in/diksha1singla"
               target="_blank"
               rel="noreferrer"
             >
@@ -55,7 +55,7 @@ const Contact = () => {
             </a>
             &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
             <a
-              href="https://www.instagram.com/tarungoyal_0025/"
+              href="https://www.instagram.com/singla_dikshaa"
               target="_blank"
               rel="noreferrer"
             >

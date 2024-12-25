@@ -26,7 +26,7 @@ const Copyright = () => {
         </div>
         <div className=" col-md-4">
           <a
-            href="https://github.com/tarungoyal0025"
+            href="https://github.com/Diksha1Singla"
             target="_blank"
             rel="noreferrer"
           >
@@ -35,7 +35,7 @@ const Copyright = () => {
           </a>
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
           <a
-            href="https://www.linkedin.com/in/tarungoyal0025/"
+            href="https://www.linkedin.com/in/diksha1singla"
             target="_blank"
             rel="noreferrer"
           >
@@ -44,7 +44,7 @@ const Copyright = () => {
           </a>
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
           <a
-            href="mailto:goyaltarun0025@gmail.com"
+            href="mailto:diksha34020@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -53,7 +53,7 @@ const Copyright = () => {
           </a>
           &nbsp;&nbsp;&nbsp;
           <a
-            href="https://www.instagram.com/tarungoyal_0025/"
+            href="https://www.instagram.com/singla_dikshaa"
             target="_blank"
             rel="noreferrer"
           >
