@@ -18,9 +18,9 @@ const Copyright = () => {
             <a
               target="_blank"
               className="text-dark"
-              href="https://www.linkedin.com/in/tarungoyal0025/"
+              href="https://www.linkedin.com/in/diksha1singla"
             >
-              Tarun Goyal
+              Diksha
             </a>
           </p>
         </div>
