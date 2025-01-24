@@ -1,0 +1,55 @@
+
+.box12{
+    background-color:  rgb(250, 220, 240);
+    padding: 3rem 3rem;
+}
+.box21{
+    padding: 4rem 5rem;
+}
+.box21 .box211 img{
+    border-radius: 10px;
+    width: 70%;
+}
+
+.box12 .box112{
+    color: white;
+    background-color:  rgb(65, 4, 44);
+    border-radius: 20px;
+    padding: 4rem 2rem;
+    margin: 2rem;
+    width: 20%;
+}
+.box12 .box112 .box1121{
+   width: 70%;
+   border-radius: 20px;
+}
+.box12 .box112 .box1122{
+    width: 100%;
+    border-radius: 20px;
+ }
+ .box12 .box112 .box1123{
+    width: 70%;
+    border-radius: 20px;
+ }
+ .box12 .box112 .box1124{
+    width: 70%;
+    border-radius: 20px;
+ }
+
+ .box4{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    font-weight: bold;
+   color: rgb(65, 4, 44); ;
+ }
+ .box411 img{
+    width: 400px;
+    height: 400px;
+   border-radius: 10px;
+ }
+ .box411 img:hover{
+     transform: scale(1.1);
+     margin: 1rem;
+     cursor: pointer;
+ }

@@ -1,0 +1,96 @@
+.projects-container {
+    margin: 0 10px 0 10px !important;
+  }
+.heading1{
+color:  rgb(65, 4, 44);
+font-weight: bold;
+    
+}
+  /* .projects-title h3 {
+    font-family: "Archivo", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin: 0px;
+  }
+  
+  .projects-title h4 {
+    font-family: "Manrope", sans-serif;
+    font-size: 20px;
+  } */
+  
+  .projects-wrapper {
+    height: 450px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+  }
+  
+  .project-card {
+    width: 300px;
+    background-color:  rgb(250, 220, 240);
+    border-radius: 0.3rem;
+    
+  }
+  
+  .project-card img {
+    width: 300px !important;
+    padding: 16px 16px 12px 16px;
+   margin-top: 20%;
+    border-radius: 0.3rem;
+  }
+  
+
+  
+  
+  .imgsec {
+    height: 40vh;
+    margin-bottom: 5vh;
+    overflow: hidden;
+  
+    position: relative;
+  }
+  .imgsec:hover img {
+    animation: portfolioani 7s linear;
+  }
+  .imgsec:hover {
+    transform: scale(0.95);
+    transition: 1s ease;
+  }
+  .project-card img .dif-image-project {
+    width: 100px;
+    height: 40vh;
+  }
+  .custom-margin-bottom {
+    margin-bottom: 50px;
+  }
+  @keyframes portfolioani {
+    0% {
+      transform: translateY(0%);
+    }
+    100% {
+      transform: translateY(-100%);
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .col.project-col {
+      display: flex;
+      justify-content: center;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .projects-container {
+      margin: 0 !important;
+    }
+  
+  }
+  
+  @media (max-width: 576px) {
+  
+  
+    .project-card img {
+      width: 300px !important;
+    }
+  }
+  
