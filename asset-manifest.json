@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/SOCH/static/css/main.42b7e13a.css",
+    "main.js": "/SOCH/static/js/main.a2782f78.js",
+    "static/js/787.4e622e6b.chunk.js": "/SOCH/static/js/787.4e622e6b.chunk.js",
+    "static/media/havedone11.jpg": "/SOCH/static/media/havedone11.d794177743b386d5cd14.jpg",
+    "static/media/image3.png": "/SOCH/static/media/image3.cd7887064681b5921642.png",
+    "static/media/havedone2.jpg": "/SOCH/static/media/havedone2.25d197bd1ee58ea59d15.jpg",
+    "static/media/Project10.jpg": "/SOCH/static/media/Project10.e00859c317c6d8591143.jpg",
+    "static/media/Project11.jpg": "/SOCH/static/media/Project11.cbe0b78f257fd4a831df.jpg",
+    "static/media/Project9.jpg": "/SOCH/static/media/Project9.ddea50e272b439e7f7da.jpg",
+    "static/media/Project12.jpg": "/SOCH/static/media/Project12.7bed1450aa77eda4868f.jpg",
+    "static/media/news3.jpg": "/SOCH/static/media/news3.b7020ba4fbfc7c997c1c.jpg",
+    "static/media/news4.jpg": "/SOCH/static/media/news4.e9b3479c46f23674b3b7.jpg",
+    "static/media/image4.jpg": "/SOCH/static/media/image4.ed6cc064e0c831456403.jpg",
+    "static/media/Project5.jpg": "/SOCH/static/media/Project5.626cd0ed2667cfec1681.jpg",
+    "static/media/Project6.jpg": "/SOCH/static/media/Project6.b71baa119ff1c6183f44.jpg",
+    "static/media/image1.jpg": "/SOCH/static/media/image1.2f5281081ded642d7458.jpg",
+    "static/media/Project7.jpg": "/SOCH/static/media/Project7.bfed4f613b2bd7baa292.jpg",
+    "static/media/Project4.jpg": "/SOCH/static/media/Project4.2442e4fd7efe79e2eba8.jpg",
+    "static/media/Project2.jpg": "/SOCH/static/media/Project2.da460570c0844cfc93cb.jpg",
+    "static/media/childlabour2.jpg": "/SOCH/static/media/childlabour2.9a0e04d4c9818ef266f9.jpg",
+    "static/media/Project3.jpg": "/SOCH/static/media/Project3.55fe0cf2571923daea27.jpg",
+    "static/media/approachpic.jpeg": "/SOCH/static/media/approachpic.d36020a2b4265e331eb9.jpeg",
+    "static/media/news1.jpg": "/SOCH/static/media/news1.6aaf396980d78d8015a3.jpg",
+    "static/media/news2.jpg": "/SOCH/static/media/news2.136fb8092f801c73f159.jpg",
+    "static/media/image6.jpg": "/SOCH/static/media/image6.9cc2b8243ea040b13f3d.jpg",
+    "static/media/Project8.jpg": "/SOCH/static/media/Project8.f1ebe9fa2df058e497c0.jpg",
+    "static/media/Project1.jpg": "/SOCH/static/media/Project1.2d003b93498577b564d4.jpg",
+    "static/media/image9.jpg": "/SOCH/static/media/image9.25aefc45bf28add4c59f.jpg",
+    "index.html": "/SOCH/index.html",
+    "main.42b7e13a.css.map": "/SOCH/static/css/main.42b7e13a.css.map",
+    "main.a2782f78.js.map": "/SOCH/static/js/main.a2782f78.js.map",
+    "787.4e622e6b.chunk.js.map": "/SOCH/static/js/787.4e622e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b7e13a.css",
+    "static/js/main.a2782f78.js"
+  ]
+}
